@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to my DevOps Project Austin!!   </h1>
+<h1> Hello, Welcome to my DevOps Project!!   </h1>
 <h2> this is really awesome when i am getting everything right </h2>
 <h2> Glad to see you here as well thank you </h2>
 <h1> Good job austin on showing us the light</h1>
